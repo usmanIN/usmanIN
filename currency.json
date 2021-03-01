@@ -1,0 +1,19 @@
+{
+  "IN":{
+    "CurrencyName":"Indian Rupees",
+    "Country":"India",
+    "Flag":"image.jpg",
+    "currency":{
+      "1":"image.jpg",
+      "2":"image.jpg",
+      "5":"image.jpg",
+      "10":"image.jpg",
+      "20":"image.jpg",
+      "50":"image.jpg",
+      "100":"image.jpg",
+      "200":"image.jpg",
+      "500":"image.jpg",
+      "2000":"image.jpg"
+      }
+    }
+}
