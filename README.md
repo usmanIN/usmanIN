@@ -7,21 +7,28 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=usmanIN.usmanIN)
 -->
 
-Hi, I'm [Usman](https://usmanin.github.io/Portfolio/) a CS Engineer, self-taught Data Scientist. I'm skilled Full Stack PHP Developer. My Passion includes Application Devlopment, Machine Learning and Deep Learning. Skill in Python, Java.
+Hi, I'm [Usman](https://usmanin.github.io/Portfolio/) a CS Engineer, self-taught Data Scientist. I'm skilled Full Stack PHP Developer. My Passion includes Application Devlopment, working on Machine Learning and Deep Learning. Have skill in Python, Java, Andorid technologies.
 
 I'm thinker, passionate & curious towards learning and adapt new technologies. 
 
 > 💼 Any freelance work?
       [Email](mailto:mohdusmangani95@gmail.com) 
       [Linkedin](https://www.linkedin.com/in/mohd-usman-gani-3a11031a1/)
-- 👯 I’m looking to collaborate on open-source/commerical project
-- 🤔 I’m looking for work! Any type....help to find
+  ### Focus stuffs:
+- 👯 I’m looking to collaborate on .....open-source/commerical project.
+- 🤔 I’m looking for work! Any type....help to find.
+- 📫 How to reach me: ... [Twitter](https://twitter.com/95Gani)
 
-      
+#### Extra-Curricular Activities:
+-	Write a Monthly [Blog](https://leideapad.wordpress.com).
+- Polishing Skills and Earning Badges On [HackerRank](https://www.hackerrank.com/mohdusmangani95)
+
+<br/>      
  
 > | Repo | [Data Science](https://github.com/usmanIN/Data-Science/) | [Java](https://github.com/usmanIN/JAVA/) | [PHP](https://github.com/usmanIN/PHP/) |
 > | --- | --- | --- | --- |
       
+<br/>
 
 **Tools & Technologies:** 
 
@@ -36,12 +43,20 @@ I'm thinker, passionate & curious towards learning and adapt new technologies.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
+<br/>
 
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=usmanIN&show_icons=true&theme=gotham" alt="usmanIN" /></td>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=usmanIN&show_icons=true&theme=gotham" alt="usmanIN" />-->
   
+<!-- GitHub stats My GitHub  -->
+<b> ⚡ GitHub Statistics</b>
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmanIN&show_icons=true&hide_border=true&theme=gotham" />
   
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanIN&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=gotham&layout=compact&langs_count=8"/>
+ </p>
 <!--
 **usmanIN/usmanIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
