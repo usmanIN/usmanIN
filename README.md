@@ -7,13 +7,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=usmanIN.usmanIN)
 -->
 
-Hi, I'm [Usman](https://usmanin.github.io/Portfolio/) a CS Engineer, self-taught Data Sciencist. I'm skilled Full Stack PHP Developer. My Passion includes Application Devlopment, Machine Learning and Deep Learning. Skill in Python, Java.
+Hi, I'm [Usman](https://usmanin.github.io/Portfolio/) a CS Engineer, self-taught Data Scientist. I'm skilled Full Stack PHP Developer. My Passion includes Application Devlopment, Machine Learning and Deep Learning. Skill in Python, Java.
 
 I'm thinker, passionate & curious towards learning and adapt new technologies. 
 
 > 💼 Any freelance work?
       [Email](mailto:mohdusmangani95@gmail.com) 
       [Linkedin](https://www.linkedin.com/in/mohd-usman-gani-3a11031a1/)
+- 👯 I’m looking to collaborate on open-source/commerical project
+- 🤔 I’m looking for work! Any type....help to find
+
       
  
 > | Repo | [Data Science](https://github.com/usmanIN/Data-Science/) | [Java](https://github.com/usmanIN/JAVA/) | [PHP](https://github.com/usmanIN/PHP/) |
