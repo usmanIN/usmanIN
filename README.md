@@ -24,9 +24,9 @@ I'm thinker, passionate & curious towards learning and adapt new technologies.
 - Polishing Skills and Earning Badges On [HackerRank](https://www.hackerrank.com/mohdusmangani95)
 
 <br/>      
- 
+<!--  
 > | Repo | [Data Science](https://github.com/usmanIN/Data-Science/) | [Java](https://github.com/usmanIN/JAVA/) | [PHP](https://github.com/usmanIN/PHP/) |
-> | --- | --- | --- | --- |
+> | --- | --- | --- | --- | -->
       
 <br/>
 
