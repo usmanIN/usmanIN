@@ -57,6 +57,7 @@ I'm thinker, passionate & curious towards learning and adapt new technologies.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanIN&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=gotham&layout=compact&langs_count=8"/>
  </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usmanIN&repo=github-readme-stats)]
 
 <!--
 **usmanIN/usmanIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
