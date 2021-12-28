@@ -52,9 +52,9 @@ I'm thinker, passionate & curious towards learning and adapt new technologies.
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmanIN&show_icons=true&hide_border=true&theme=gotham&repo=show_owner" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmanIN&show_icons=true&hide_border=true&theme=gotham&repo=show_owner&count_private=true" />
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanIN&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=gotham&layout=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanIN&show_icons=true&hide_border=true&theme=gotham&layout=compact&hide=jupyter notebook"/>
  </p>
 
 
