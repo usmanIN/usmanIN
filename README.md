@@ -17,7 +17,7 @@ I'm thinker, passionate & curious towards learning and adapt new technologies.
   ### Focus stuffs:
 - 👯 I’m looking to collaborate on .....open-source/commerical project.
 - 🤔 I’m looking for work! Any type....help to find.
-- 📫 How to reach me: ... [Twitter](https://twitter.com/95Gani)
+<!-- - 📫 How to reach me: ... [Twitter](https://twitter.com/95Gani) -->
 
 #### Extra-Curricular Activities:
 -	Write a Monthly [Blog](https://leideapad.wordpress.com).
@@ -45,7 +45,6 @@ I'm thinker, passionate & curious towards learning and adapt new technologies.
 
 <br/>
 
-
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=usmanIN&show_icons=true&theme=gotham" alt="usmanIN" />-->
   
 <!-- GitHub stats My GitHub  -->
@@ -57,6 +56,9 @@ I'm thinker, passionate & curious towards learning and adapt new technologies.
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanIN&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=gotham&layout=compact&langs_count=8"/>
  </p>
+ 
+ ![](https://visitor-badge.glitch.me/badge?page_id=usmanIN.usmanIN)
+ 
 <!--
 **usmanIN/usmanIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
