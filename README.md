@@ -7,7 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=usmanIN.usmanIN)
 -->
 
-Hi, I'm [Usman](https://usmanin.github.io/Portfolio/) a CS Engineer, self-taught Data Scientist. I'm skilled Full Stack PHP Developer. My Passion includes Application Devlopment, working on Machine Learning and Deep Learning. Have skill in Python, Java, Andorid technologies.
+Hi, I'm [Usman](https://usmanin.github.io/Portfolio/) a CS Engineer. I'm skilled Full Stack PHP Developer. My Passion includes Application Devlopment, working on Machine Learning and Deep Learning. Have skill in Python, Java, Andorid technologies.
 
 I'm thinker, passionate & curious towards learning and adapt new technologies. 
 
@@ -73,3 +73,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=usmanIN&theme=dark&show_icons=true)
